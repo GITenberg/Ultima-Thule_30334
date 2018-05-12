@@ -1,0 +1,48 @@
+_repo: Ultima-Thule_30334
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, John (John Carl)
+    - Schoenherr, Jack
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: Dallas McCord ""Mack"" Reynolds was an American science fiction writer.
+  His pen names included Dallas Ross, Mark Mallory, Clark Collins, Dallas Rose, Guy
+  McCord, Maxine Reynolds, Bob Belmont, and Todd Harding. His work is noteworthy for
+  its focus on socioeconomic speculation, usually expressed in thought-provoking explorations
+  of Utopian societies from a radical, sometime satiric, perspective. He was a considerably
+  popular author from the 1950s to the 1970s, especially with readers of science fiction
+  and fantasy magazines.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Ultima Thule
+url: http://www.gutenberg.org/ebooks/30334
